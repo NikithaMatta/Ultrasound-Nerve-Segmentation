@@ -62,7 +62,7 @@ Sample segmented outputs are visualized in the provided notebook.
 
 ## 🧑‍💻 Contributors
 
-* Nikitha Matta – \[21481A4245]
-* Venkata Rami Reddy – \[21481A4219]
-* Boyi Gurunadh – \[22485A4202]
-* Kodali Naga Vamsi – \[22485A4205]
+* Nikitha Matta 
+* Venkata Rami Reddy 
+* Boyi Gurunadh 
+* Kodali Naga Vamsi 
